@@ -28,6 +28,12 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | DOG001 | `generations/stills/candidates/DOG001_irish-setter-reference_v001.png` | Recurring character / prop reference | Irish Setter | CANDIDATE | Arena.ai image generation | Original generated candidate | Setter sitting beside stove; lock candidate for dog appearance |
 | DOG002 | `generations/stills/candidates/DOG002_setter-underfoot-mixing_v001.png` | Story still candidate | Verse 1 / mixing gag | CANDIDATE | Arena.ai image generation | Original generated candidate | Setter underfoot while cowboy mixes batter; cover/blur small pseudo-text |
 | DOG003 | `generations/stills/candidates/DOG003_setter-beside-table_v001.png` | Story still candidate | Outro / product hold | CANDIDATE | Arena.ai image generation | Original generated candidate | Setter beside table-for-two looking up at waffle stack |
+| S003 | `generations/stills/candidates/S003_cowboy-boots-floor_v001.png` | Story still candidate | Verse 1 00:09.80–00:12.50 | CANDIDATE | Arena.ai image generation | Original generated candidate | Cowboy boots walking across kitchen floor near stove |
+| S004 | `generations/stills/candidates/S004_bacon-and-ham-rejected_v001.png` | Story still candidate | Verse 1 00:14.60–00:17.70 | CANDIDATE | Arena.ai image generation | Original generated candidate | Bacon and ham platter nudged aside; waffles blurred behind |
+| S005 | `generations/stills/candidates/S005_mixing-bowl-reveal_v001.png` | Story still candidate | Verse 1 00:17.70–00:19.54 | CANDIDATE | Arena.ai image generation | Original generated candidate | Whisk over cream mixing bowl of batter; strong reveal |
+| S007 | `generations/stills/candidates/S007_kitchen-food-montage_v001.png` | Story still candidate | Chorus 1 00:29.74–00:33.73 | CANDIDATE | Arena.ai image generation | Original generated candidate | Waffle/fork/butter montage with syrup bottle nearby but untouched |
+| S008 | `generations/stills/candidates/S008_sunbeam-flour-transition_v001.png` | Story still candidate | Instrumental 00:33.73–00:36.50 | CANDIDATE | Arena.ai image generation | Original generated candidate | Golden sunbeam flour/steam transition |
+| S009 | `generations/stills/candidates/S009_singer-enters-kitchen_v001.png` | Story still candidate | Instrumental 00:36.50–00:39.33 | CANDIDATE | Arena.ai image generation | Original generated candidate | Singer enters kitchen doorway, delighted; consistent wardrobe |
 
 ## Uploaded Raw Filename Mapping
 

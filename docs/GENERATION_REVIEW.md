@@ -309,9 +309,91 @@ What works:
 
 ---
 
+## Batch 003 — Narrative Stills A (Intro/Verse/Transition)
+
+### S003_cowboy-boots-floor_v001.png
+
+Path: `generations/stills/candidates/S003_cowboy-boots-floor_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Great "them boots I love the most" insert.
+- Dust kicked up by one boot mid-step, strong texture and motion feel.
+- Warm window/gingham framing and consistent stove location.
+- No faces or readable text.
+
+### S004_bacon-and-ham-rejected_v001.png
+
+Path: `generations/stills/candidates/S004_bacon-and-ham-rejected_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Hand nudges the bacon-and-ham platter aside.
+- Waffle stack stays out of focus behind — good visual hierarchy.
+- Directly matches "ain't the bacon, ain't the ham."
+- No readable-text issue.
+
+### S005_mixing-bowl-reveal_v001.png
+
+Path: `generations/stills/candidates/S005_mixing-bowl-reveal_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Excellent "special recipe" reveal.
+- Whisk dripping batter over the mixing bowl, flour sprinkle, two cast-iron waffle irons behind.
+- Strong candidate for a short image-to-video pull-back.
+
+### S007_kitchen-food-montage_v001.png
+
+Path: `generations/stills/candidates/S007_kitchen-food-montage_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Waffle/fork/butter montage with the syrup bottle present but untouched.
+- Strong table-for-two continuity from T001.
+- Reads as the "sweeter life" food-commercial beat.
+- No readable-text issue.
+
+### S008_sunbeam-flour-transition_v001.png
+
+Path: `generations/stills/candidates/S008_sunbeam-flour-transition_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Lyrical sunbeam, flour, and steam transition.
+- Good shelf/haze dive for the instrumental gap.
+- Strong candidate for a slow push with steam overlay.
+
+### S009_singer-enters-kitchen_v001.png
+
+Path: `generations/stills/candidates/S009_singer-enters-kitchen_v001.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- Correct singer look (blonde curls, gingham, denim, boots).
+- Good "sees the spread" delighted entrance from the doorway.
+- Consistent kitchen layout from wide reference.
+
+Issues / notes:
+
+- Singer is small in frame at doorway distance. Good for a wide transition beat; a tighter 3/4 performance version will still be needed for the V004 whisk-performance close-ups.
+
+---
+
 ## Next Steps
 
-- Commit a decision on which characters/location are **APPROVED** so shots stay consistent.
-- Generate **S003–S005, S007–S015** to fill the intro/verse/chorus still coverage, using T001 as the table-for-two food motif.
+- Generate **S010–S012** (reaction flour-nose gag) and the **verse 2 syrup/jam coverage**.
 - Generate the **V001–V010** image-to-video clips from the approved stills.
 - Build the **product-box label graphic** and **overlays** (steam, flour, grain, light leaks) in post.
