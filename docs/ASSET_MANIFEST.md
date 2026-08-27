@@ -22,6 +22,9 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | S002 | `generations/stills/candidates/S002_empty-kitchen-intro_v001.png` | Story still candidate | Intro 00:03.00–00:06.10 | CANDIDATE | Arena.ai image generation | Original generated candidate | Empty kitchen intro, no readable text |
 | S006 | `generations/stills/candidates/S006_belgian-waffle-hero_v001.png` | Story still candidate | Chorus 1 00:23.13–00:26.26 | CANDIDATE | Arena.ai image generation | Original generated candidate | Belgian waffle hero shot with butter and syrup |
 | T001 | `generations/stills/candidates/T001_kitchen-table-food-spread_v001.png` | Story still candidate | Lyric food motif / table-for-two | CANDIDATE | Arena.ai image generation | Original generated candidate | Table set for two with bacon, ham, maple syrup, jam, waffles, biscuits, and pie; no readable text |
+| T002 | `generations/stills/candidates/T002_syrup-and-jam-pushed-aside_v001.png` | Story still candidate | Verse 2 / syrup-jam rejection | CANDIDATE | Arena.ai image generation | Original generated candidate | Hand pushes syrup and jam aside; syrup label has readable pseudo-text to cover/blur in post |
+| T003 | `generations/stills/candidates/T003_waffle-stack-focus_v001.png` | Story still candidate | Chorus / "pour it on my plate" | CANDIDATE | Arena.ai image generation | Original generated candidate | Waffle stack with syrup pour, butter, steam; clean food-commercial insert |
+| T004 | `generations/stills/candidates/T004_table-for-two-waffles-only_v001.png` | Story still candidate | Outro / "biscuits or pie" | CANDIDATE | Arena.ai image generation | Original generated candidate | Table for two with waffles, biscuits, and pie only; syrup/jam removed |
 
 ## Uploaded Raw Filename Mapping
 

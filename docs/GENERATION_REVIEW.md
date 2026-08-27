@@ -221,6 +221,48 @@ Possible issues / notes:
 - A couple of small pseudo-text speckles on the syrup and jam labels. Cover or blur in post, or regenerate if used as a clean beauty insert.
 - Treat as a recurring motif shot: use fully early, then push aside/crop toward specific items when the lyric calls them out.
 
+### T002_syrup-and-jam-pushed-aside_v001.png
+
+Path: `generations/stills/candidates/T002_syrup-and-jam-pushed-aside_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Reads clearly as "forget the syrup and jam" rejection.
+- Good hand-in-denim push motion cue for a future image-to-video pass.
+- Waffle stack stays in warm focus behind the pushed-aside props.
+- Strong table-for-two continuity with T001.
+
+Issues / notes:
+
+- Readable generated label on the syrup bottle ("MAGEE'S MAPLE SYRUP"). Cover/blur in post or regenerate the bottle blank; it cannot be used as final packaging.
+
+### T003_waffle-stack-focus_v001.png
+
+Path: `generations/stills/candidates/T003_waffle-stack-focus_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Beautiful syrup-pour and butter-focus food-commercial insert.
+- Strong "pour it on my plate" payoff.
+- No face or readable-label issue.
+
+### T004_table-for-two-waffles-only_v001.png
+
+Path: `generations/stills/candidates/T004_table-for-two-waffles-only_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Successfully removes the syrup and jam, isolating waffle, biscuits, and pie.
+- Reads as the punchline resolution: table for two, only the good stuff left.
+- Useful for "Belgian waffles, biscuits or pie" outro beat.
+- No readable-label issue.
+
 ---
 
 ## Next Steps
