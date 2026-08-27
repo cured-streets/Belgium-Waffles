@@ -202,9 +202,30 @@ What works:
 
 ---
 
+### T001_kitchen-table-food-spread_v001.png
+
+Path: `generations/stills/candidates/T001_kitchen-table-food-spread_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Direct visual payoff for the lyric-food motif in a single image.
+- Clear table set for two with two facing place settings.
+- Includes every food named or implied in the song: bacon, ham, maple syrup, jam/preserves, Belgian waffles, biscuits, pie, milk.
+- Strong red gingham, warm Kodachrome, steam, rustic kitchen continuity.
+- No people and no readable labels; safe for food-commercial framing.
+
+Possible issues / notes:
+
+- A couple of small pseudo-text speckles on the syrup and jam labels. Cover or blur in post, or regenerate if used as a clean beauty insert.
+- Treat as a recurring motif shot: use fully early, then push aside/crop toward specific items when the lyric calls them out.
+
+---
+
 ## Next Steps
 
 - Commit a decision on which characters/location are **APPROVED** so shots stay consistent.
-- Generate **S003–S005, S007–S015** to fill the intro/verse/chorus still coverage.
+- Generate **S003–S005, S007–S015** to fill the intro/verse/chorus still coverage, using T001 as the table-for-two food motif.
 - Generate the **V001–V010** image-to-video clips from the approved stills.
 - Build the **product-box label graphic** and **overlays** (steam, flour, grain, light leaks) in post.

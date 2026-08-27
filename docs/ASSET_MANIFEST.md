@@ -21,6 +21,7 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | S001 | `generations/stills/candidates/S001_farmhouse-exterior-sunrise_v001.png` | Story still candidate | Intro 00:00.00–00:03.00 | CANDIDATE | Arena.ai image generation | Original generated candidate | Farmhouse exterior establishing shot |
 | S002 | `generations/stills/candidates/S002_empty-kitchen-intro_v001.png` | Story still candidate | Intro 00:03.00–00:06.10 | CANDIDATE | Arena.ai image generation | Original generated candidate | Empty kitchen intro, no readable text |
 | S006 | `generations/stills/candidates/S006_belgian-waffle-hero_v001.png` | Story still candidate | Chorus 1 00:23.13–00:26.26 | CANDIDATE | Arena.ai image generation | Original generated candidate | Belgian waffle hero shot with butter and syrup |
+| T001 | `generations/stills/candidates/T001_kitchen-table-food-spread_v001.png` | Story still candidate | Lyric food motif / table-for-two | CANDIDATE | Arena.ai image generation | Original generated candidate | Table set for two with bacon, ham, maple syrup, jam, waffles, biscuits, and pie; no readable text |
 
 ## Uploaded Raw Filename Mapping
 
