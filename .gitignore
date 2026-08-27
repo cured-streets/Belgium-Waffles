@@ -1,0 +1,36 @@
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.token
+credentials.json
+cookies.txt
+
+# Generated caches/builds
+.cache/
+__pycache__/
+.pytest_cache/
+node_modules/
+dist/
+build/
+out/
+
+# Local-only large scratch media
+scratch/
+tmp/
+temp/
+exports/local/
+
+# NLE/autosave clutter
+*.autosave
+*.bak

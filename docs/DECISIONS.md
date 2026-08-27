@@ -1,0 +1,15 @@
+# Decisions
+
+Record significant creative and technical decisions here.
+
+| Date | Decision | Rationale | Owner |
+|---|---|---|---|
+| 2026-08-26 | Initial repository scaffold created from README plan. | Establish project structure and source-of-truth documents. | Arena.ai agent |
+| 2026-08-26 | Uploaded song and lyrics organized into production folders. | Keep root clean and make audio/lyrics discoverable by the production docs. | Arena.ai agent |
+| 2026-08-26 | First-pass lyric timing marked provisional. | Exact sync requires listening pass against the final master. | Arena.ai agent |
+| 2026-08-26 | CapCut auto-lyrics JSON accepted as rough timing source. | We only need approximate scene-change timing, not on-screen lyrics. | User / Arena.ai agent |
+| 2026-08-26 | Created timed shot plan from CapCut lyric cues. | Converts the 2:12.37 song into practical AI video, still, insert, and graphic production beats. | Arena.ai agent |
+| 2026-08-26 | Uploaded cartoon references organized as style/concept references. | Keep inspiration images discoverable while avoiding direct reuse of copyrighted characters or trademarks. | Arena.ai agent |
+| 2026-08-26 | Visual direction steered away from kid-coded cartoon style. | Adult innuendo should not be paired with imagery strongly associated with children or family cartoons. | User / Arena.ai agent |
+| 2026-08-26 | Adult retro country breakfast commercial parody selected as safer core style. | Keeps the joke campy, wholesome-on-screen, and clearly adult-coded. | User / Arena.ai agent |
+| 2026-08-27 | Unpacked the full project ZIP into the repository structure and removed loose root duplicates. | The ZIP contained the organized project (docs, assets, generations, prompts). Loose root files were renamed to their canonical production paths. | Arena.ai agent |

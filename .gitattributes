@@ -1,0 +1,17 @@
+# Media files are binary assets. If Git LFS is installed for the repo later,
+# these patterns can be converted to LFS tracking with `git lfs track`.
+*.wav binary
+*.aif binary
+*.aiff binary
+*.mp3 binary
+*.flac binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.jfif binary
+*.tif binary
+*.tiff binary
+*.psd binary
+*.mp4 binary
+*.mov binary
+*.mxf binary

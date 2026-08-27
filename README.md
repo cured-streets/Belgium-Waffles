@@ -348,9 +348,13 @@ baby-batter-video/
 │   ├── PROJECT_BIBLE.md
 │   ├── CHARACTER_BIBLE.md
 │   ├── LOCATION_BIBLE.md
+│   ├── LYRICS.md
 │   ├── LYRICS_AND_TIMECODES.md
 │   ├── SHOT_LIST.md
+│   ├── TIMED_SHOT_PLAN.md
 │   ├── STORYBOARD.md
+│   ├── VISUAL_STYLE_GUIDE.md
+│   ├── GENERATION_REVIEW.md
 │   ├── PROMPT_LOG.md
 │   ├── ASSET_MANIFEST.md
 │   ├── EDIT_NOTES.md
@@ -371,6 +375,7 @@ baby-batter-video/
 │   ├── character-references/
 │   ├── location-references/
 │   ├── prop-references/
+│   ├── style-references/
 │   ├── graphics/
 │   ├── overlays/
 │   ├── fonts/
