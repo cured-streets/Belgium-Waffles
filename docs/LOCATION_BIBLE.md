@@ -19,9 +19,9 @@ A warm rustic farmhouse kitchen with a coherent layout maintained across all maj
 
 ## Layout Lock Checklist
 
-- [ ] Wide establishing view
-- [ ] View toward stove
-- [ ] View toward preparation counter
-- [ ] Reverse angle
-- [ ] Window-light direction
+- [x] Wide establishing view
+- [x] View toward stove
+- [x] View toward preparation counter
+- [x] Reverse angle
+- [x] Window-light direction
 - [ ] Prop-placement guide

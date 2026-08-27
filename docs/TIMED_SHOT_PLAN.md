@@ -17,15 +17,15 @@ This is not a frame-locked edit. It is a production map for deciding which image
 
 | ID | In | Out | Dur. | Type | Visual | Lyric / Cue | Status |
 |---|---:|---:|---:|---|---|---|---|
-| S001 | 00:00.00 | 00:03.00 | 3.00 | STILL | Farmhouse exterior at sunrise, warm country morning | Intro instrumental | PLANNED |
-| S002 | 00:03.00 | 00:06.10 | 3.10 | INSERT | Empty farmhouse kitchen, waffle iron, bowl, sunlight through flour dust | Intro instrumental | PLANNED |
+| S001 | 00:00.00 | 00:03.00 | 3.00 | STILL | Farmhouse exterior at sunrise, warm country morning | Intro instrumental | CANDIDATE |
+| S002 | 00:03.00 | 00:06.10 | 3.10 | INSERT | Empty farmhouse kitchen, waffle iron, bowl, sunlight through flour dust | Intro instrumental | CANDIDATE |
 | V001 | 00:06.10 | 00:09.80 | 3.70 | VIDEO | Singer wakes and smells breakfast, cheerful surprise | “Well I wake up…” | PLANNED |
 | S003 | 00:09.80 | 00:12.50 | 2.70 | INSERT | Cowboy boots crossing kitchen floor / boots beside stove | “southern drawl... boots” | PLANNED |
 | V002 | 00:12.50 | 00:14.60 | 2.10 | VIDEO | Cowboy turns from stove in golden steam | “boots I love the most” | PLANNED |
 | S004 | 00:14.60 | 00:17.70 | 3.10 | INSERT | Bacon and ham presented, then rejected with comic timing | “ain’t the bacon... ain’t the ham” | PLANNED |
 | S005 | 00:17.70 | 00:19.54 | 1.84 | INSERT | Ceramic mixing bowl reveal, whisk enters frame | “special recipe...” | PLANNED |
 | V003 | 00:19.54 | 00:23.13 | 3.59 | VIDEO | Dramatic batter pour toward plate / waffle iron | “Baby batter... pour it on my plate” | PLANNED |
-| S006 | 00:23.13 | 00:26.26 | 3.13 | STILL | Finished Belgian waffle hero shot, butter melting, steam | “Belgian waffles never tasted so great” | PLANNED |
+| S006 | 00:23.13 | 00:26.26 | 3.13 | STILL | Finished Belgian waffle hero shot, butter melting, steam | “Belgian waffles never tasted so great” | CANDIDATE |
 | V004 | 00:26.26 | 00:29.74 | 3.48 | VIDEO | Singer performs into whisk as microphone | “For lunch and supper...” | PLANNED |
 | S007 | 00:29.74 | 00:33.73 | 3.99 | INSERT | Sweet kitchen montage: fork, plate, waffle stack, syrup bottle nearby but unused | “Life’s much sweeter...” | PLANNED |
 | S008 | 00:33.73 | 00:36.50 | 2.77 | INSERT | Steam wipe / flour particles in sunbeam | Instrumental transition | PLANNED |

@@ -15,6 +15,12 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | CHAR002 | `generations/stills/candidates/CHAR_cowboy-reference_v001.png` | Character reference candidate | Cowboy | CANDIDATE | Arena.ai image generation | Original generated candidate | Strong cowboy cook direction; may need more waffle-specific props and fewer breakfast-skillet elements |
 | LOC001 | `generations/stills/candidates/LOC_farmhouse-kitchen-wide_v001.png` | Location reference candidate | Kitchen | CANDIDATE | Arena.ai image generation | Original generated candidate | Strong farmhouse kitchen layout; good waffle iron, prep island, red gingham, warm light |
 | S030 | `generations/stills/candidates/S030_good-morning-kiss-shirtless-cook_v001.png` | Story still candidate | Verse 1 / morning kitchen | CANDIDATE | Arena.ai image generation | Original generated candidate | Adult good-morning cheek-kiss while cowboy mixes batter shirtless under apron; tasteful but has tattoos and possible pseudo-text on bags |
+| CHAR004 | `generations/stills/candidates/CHAR_cowboy-reference_v002.png` | Character reference candidate | Cowboy | CANDIDATE | Arena.ai image generation | Original generated candidate | Same cowboy as v001, now with waffle batter, mixing bowl, whisk, and waffle iron; strong character lock candidate |
+| LOC002 | `generations/stills/candidates/LOC_farmhouse-kitchen-stove_v001.png` | Location reference candidate | Kitchen | CANDIDATE | Arena.ai image generation | Original generated candidate | Stove-facing angle; includes readable pseudo-sign that must be covered/blurred or regenerated if used |
+| LOC003 | `generations/stills/candidates/LOC_farmhouse-kitchen-reverse_v001.png` | Location reference candidate | Kitchen | CANDIDATE | Arena.ai image generation | Original generated candidate | Reverse angle across prep island toward sink/window; strong continuity candidate |
+| S001 | `generations/stills/candidates/S001_farmhouse-exterior-sunrise_v001.png` | Story still candidate | Intro 00:00.00–00:03.00 | CANDIDATE | Arena.ai image generation | Original generated candidate | Farmhouse exterior establishing shot |
+| S002 | `generations/stills/candidates/S002_empty-kitchen-intro_v001.png` | Story still candidate | Intro 00:03.00–00:06.10 | CANDIDATE | Arena.ai image generation | Original generated candidate | Empty kitchen intro, no readable text |
+| S006 | `generations/stills/candidates/S006_belgian-waffle-hero_v001.png` | Story still candidate | Chorus 1 00:23.13–00:26.26 | CANDIDATE | Arena.ai image generation | Original generated candidate | Belgian waffle hero shot with butter and syrup |
 
 ## Uploaded Raw Filename Mapping
 
@@ -29,3 +35,14 @@ Files were uploaded at the repository root under temporary names and then organi
 | `jetsons.jpg` | `assets/style-references/retro-future-family-reference.jpg` |
 | `CHAR_singer-reference_v002.png` | `generations/stills/candidates/CHAR_singer-reference_v002.png` |
 | `S9j1eL8o1qyVIaontugLTpJ7ZsSQQlxQVxXc7XRolX8.png` | `generations/stills/candidates/S030_good-morning-kiss-shirtless-cook_v001.png` |
+
+## Prompt Records
+
+Individual prompt records live under `prompts/`. Batch 002 files include:
+
+- `prompts/characters/CHAR_cowboy-reference_v002.md`
+- `prompts/locations/LOC_farmhouse-kitchen-stove_v001.md`
+- `prompts/locations/LOC_farmhouse-kitchen-reverse_v001.md`
+- `prompts/stills/S001_farmhouse-exterior-sunrise_v001.md`
+- `prompts/stills/S002_empty-kitchen-intro_v001.md`
+- `prompts/stills/S006_belgian-waffle-hero_v001.md`

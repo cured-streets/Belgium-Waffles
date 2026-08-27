@@ -20,11 +20,11 @@ A charismatic adult country singer with expressive comic timing. Cheerful, confi
 - [ ] Three-quarter portrait
 - [ ] Left profile
 - [ ] Right profile
-- [ ] Full-body view
-- [ ] Primary wardrobe
+- [x] Full-body view
+- [x] Primary wardrobe
 - [ ] Finale wardrobe, if needed
 - [ ] Neutral expression
-- [ ] Smiling expression
+- [x] Smiling expression
 
 ## Cowboy
 
@@ -47,8 +47,8 @@ A ruggedly handsome adult country cook who plays the premise completely straight
 - [ ] Three-quarter portrait
 - [ ] Left profile
 - [ ] Right profile
-- [ ] Full-body view
-- [ ] Hat and boots
-- [ ] Apron or workwear
+- [x] Full-body view
+- [x] Hat and boots
+- [x] Apron or workwear
 - [ ] Neutral expression
-- [ ] Smiling expression
+- [x] Smiling expression
