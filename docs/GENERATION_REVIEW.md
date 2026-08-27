@@ -553,8 +553,40 @@ What works:
 
 ---
 
+## Batch 006 — Final Chorus
+
+### S022_singer-picks-up-bowl_v001.png
+
+Path: `generations/stills/candidates/S022_singer-picks-up-bowl_v001.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- Playful triumphant pickup; singer lifts the bowl with one hand and the whisk raised with batter dripping.
+- Strong final-chorus energy and wardrobe/hair continuity.
+
+Issues / notes:
+
+- Small pseudo-text sign in upper-left background; cover or blur in post.
+- Batter drip off the whisk is charming; keep.
+
+### S023_waffle-stack-grab_v001.png
+
+Path: `generations/stills/candidates/S023_waffle-stack-grab_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Two adult hands grabbing a waffle stack from opposite sides; very food-commercial-parody.
+- Steam, syrup, melting butter all read well.
+- No text, no faces.
+
+---
+
 ## Next Steps
 
-- Generate **S022–S023** (pickup bowl spin / waffle stack) and the final chorus build.
+- Generate **S024** (product-box hero / intro-style tag) and the **outro** coverage.
 - Generate the **V001–V010** image-to-video clips from the approved stills.
 - Build the **product-box label graphic** and **overlays** (steam, flour, grain, light leaks) in post.

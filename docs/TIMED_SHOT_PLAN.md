@@ -45,6 +45,8 @@ This is not a frame-locked edit. It is a production map for deciding which image
 | S019 | 01:23.50 | 01:26.57 | 3.07 | INSERT | Close-up: hands reach toward whisk and bowl | Instrumental pre-bridge | CANDIDATE |
 | S020 | 01:26.57 | 01:28.23 | 1.66 | INSERT | Slow whisk close-up | “Mix it up slow” | CANDIDATE |
 | S021 | 01:28.23 | 01:32.97 | 4.74 | INSERT | Batter stirred thick, exaggerated food-commercial texture | “Stir it up thick... whip it up quick” | CANDIDATE |
+| S022 | 01:35.44 | 01:39.58 | 4.14 | STILL | Singer picks up bowl, whisk raised, triumphant smile | Reprise pickup | CANDIDATE |
+| S023 | 01:39.58 | 01:43.29 | 3.71 | INSERT | Hands grab waffle stack from both sides | Final chorus food beat | CANDIDATE |
 | V006 | 01:32.97 | 01:39.53 | 6.56 | VIDEO | Couple stirs batter together in soft-focus lens flare | “Every day’s a feast...” | PLANNED |
 | S022 | 01:39.53 | 01:41.37 | 1.84 | INSERT | Fast pickup shot: bowl spin / whisk lift | “Baby batter for breakfast” pickup | PLANNED |
 | V008 | 01:41.37 | 01:47.04 | 5.67 | VIDEO | Flour-cloud dance finale begins around kitchen island | Final chorus | PLANNED |
