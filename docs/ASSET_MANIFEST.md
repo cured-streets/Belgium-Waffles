@@ -34,6 +34,12 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | S007 | `generations/stills/candidates/S007_kitchen-food-montage_v001.png` | Story still candidate | Chorus 1 00:29.74–00:33.73 | CANDIDATE | Arena.ai image generation | Original generated candidate | Waffle/fork/butter montage with syrup bottle nearby but untouched |
 | S008 | `generations/stills/candidates/S008_sunbeam-flour-transition_v001.png` | Story still candidate | Instrumental 00:33.73–00:36.50 | CANDIDATE | Arena.ai image generation | Original generated candidate | Golden sunbeam flour/steam transition |
 | S009 | `generations/stills/candidates/S009_singer-enters-kitchen_v001.png` | Story still candidate | Instrumental 00:36.50–00:39.33 | CANDIDATE | Arena.ai image generation | Original generated candidate | Singer enters kitchen doorway, delighted; consistent wardrobe |
+| S010 | `generations/stills/candidates/S010_singer-admires-cowboy_v001.png` | Story still candidate | Verse 2 00:42.86–00:46.73 | CANDIDATE | Arena.ai image generation | Original generated candidate | Singer admires cowboy mixing batter; wide two-shot |
+| S011 | `generations/stills/candidates/S011_singer-testimonial-closeup_v001.png` | Story still candidate | Verse 2 00:46.80–00:50.80 | CANDIDATE | Arena.ai image generation | Original generated candidate | Singer testimonial close-up with fork pointer |
+| S012 | `generations/stills/candidates/S012_flour-on-nose-wink_v001.png` | Story still candidate | Verse 2 00:50.80–00:52.80 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Flour-on-nose wink; best singer performance close-up |
+| S013 | `generations/stills/candidates/S013_midday-waffle-lunch_v001.png` | Story still candidate | Chorus 2 00:56.42–01:00.36 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Midday waffle lunch tableau for two |
+| S014 | `generations/stills/candidates/S014_candlelit-waffle-supper_v001.png` | Story still candidate | Chorus 2 01:00.36–01:03.09 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Candlelit waffle supper tableau |
+| S015 | `generations/stills/candidates/S015_milk-glass-toast_v001.png` | Story still candidate | Chorus 2 01:03.09–01:06.80 | CANDIDATE | Arena.ai image generation | Original generated candidate | Two hands clinking milk glasses |
 
 ## Uploaded Raw Filename Mapping
 

@@ -392,8 +392,92 @@ Issues / notes:
 
 ---
 
+## Batch 004 — Narrative Stills B (Verse 2 / Chorus 2)
+
+### S010_singer-admires-cowboy_v001.png
+
+Path: `generations/stills/candidates/S010_singer-admires-cowboy_v001.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- Clear wholesome admiration beat at the prep island.
+- Cowboy mixing batter while the singer reacts; good two-shot composition.
+- Keeps the table/kitchen continuity.
+
+Issues / notes:
+
+- Likeness is slightly looser than the individual locks. Fine for a wide two-shot, but use individual close-ups (S012 etc.) for hero performance cuts.
+
+### S011_singer-testimonial-closeup_v001.png
+
+Path: `generations/stills/candidates/S011_singer-testimonial-closeup_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Great country-commercial testimonial energy.
+- Fork-as-pointer is a nice readable prop gag.
+- Strong singer likeness and costume continuity.
+
+### S012_flour-on-nose-wink_v001.png
+
+Path: `generations/stills/candidates/S012_flour-on-nose-wink_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Perfect comedic payoff for the flour gag.
+- Wink reads clearly, hair/wardrobe consistent with singer lock.
+- Strong candidate for a V004 whisk-performance close-up reference.
+
+### S013_midday-waffle-lunch_v001.png
+
+Path: `generations/stills/candidates/S013_midday-waffle-lunch_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Clean table-for-two lunch tableau, no people, no text.
+- Same gingham, dishware, and kitchen continuity as T001.
+- Good for "for lunch and supper" montage.
+
+### S014_candlelit-waffle-supper_v001.png
+
+Path: `generations/stills/candidates/S014_candlelit-waffle-supper_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Romantic candlelit supper parody, exactly the right mood shift.
+- Same table/dishware/gigham continuity.
+- No people, no text.
+
+### S015_milk-glass-toast_v001.png
+
+Path: `generations/stills/candidates/S015_milk-glass-toast_v001.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- Milk-glass toast with waffle stack, batter bowl, biscuits, flour smudge.
+- Adult arms/hands visible; no faces, stays within guardrails.
+- Good "growing mess" transition into the reprise.
+
+Issues / notes:
+
+- Arms enter but no clean hands check needed; keep on the wholesome food-commercial side.
+
+---
+
 ## Next Steps
 
-- Generate **S010–S012** (reaction flour-nose gag) and the **verse 2 syrup/jam coverage**.
+- Generate **S016–S021** (reprise mix, recipe-card fan, pre-bridge hands, slow whisk, thick batter) for the bridge build.
 - Generate the **V001–V010** image-to-video clips from the approved stills.
 - Build the **product-box label graphic** and **overlays** (steam, flour, grain, light leaks) in post.

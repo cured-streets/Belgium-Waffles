@@ -31,13 +31,13 @@ This is not a frame-locked edit. It is a production map for deciding which image
 | S008 | 00:33.73 | 00:36.50 | 2.77 | INSERT | Steam wipe / flour particles in sunbeam | Instrumental transition | CANDIDATE |
 | S009 | 00:36.50 | 00:39.33 | 2.83 | STILL | Singer enters kitchen fully, sees counter spread | Instrumental transition | CANDIDATE |
 | V005 | 00:39.33 | 00:42.86 | 3.53 | VIDEO | Maple syrup and jam pushed aside on counter | “Forget maple syrup, don’t need no jam” | PLANNED |
-| S010 | 00:42.86 | 00:46.73 | 3.87 | STILL | Singer admires cowboy mixing batter | “I like my lovin’ straight from the man” | PLANNED |
-| S011 | 00:46.80 | 00:50.80 | 4.00 | STILL | Country-testimonial close-up, singer points to camera with fork | “Call me crazy, but I’ll testify” | PLANNED |
-| S012 | 00:50.80 | 00:52.80 | 2.00 | INSERT | Flour lands harmlessly on singer’s nose; playful wink | “secret sauce keeps me satisfied” | PLANNED |
+| S010 | 00:42.86 | 00:46.73 | 3.87 | STILL | Singer admires cowboy mixing batter | “I like my lovin’ straight from the man” | CANDIDATE |
+| S011 | 00:46.80 | 00:50.80 | 4.00 | STILL | Country-testimonial close-up, singer points to camera with fork | “Call me crazy, but I’ll testify” | CANDIDATE |
+| S012 | 00:50.80 | 00:52.80 | 2.00 | INSERT | Flour lands harmlessly on singer’s nose; playful wink | “secret sauce keeps me satisfied” | CANDIDATE |
 | V003B | 00:52.80 | 00:56.42 | 3.62 | VIDEO | Chorus hit reprise: batter pour / waffle iron close-up | “Baby batter... pour it on my plate” | PLANNED |
-| S013 | 00:56.42 | 01:00.36 | 3.94 | STILL | Lunch tableau: waffles served at sunny farmhouse table | “Belgian waffles...” | PLANNED |
-| S014 | 01:00.36 | 01:03.09 | 2.73 | STILL | Supper tableau: candlelit waffle dinner parody | “For lunch and supper...” | PLANNED |
-| S015 | 01:03.09 | 01:06.80 | 3.71 | INSERT | Milk-glass toast, growing mess on counter | “Life’s much sweeter...” | PLANNED |
+| S013 | 00:56.42 | 01:00.36 | 3.94 | STILL | Lunch tableau: waffles served at sunny farmhouse table | “Belgian waffles...” | CANDIDATE |
+| S014 | 01:00.36 | 01:03.09 | 2.73 | STILL | Supper tableau: candlelit waffle dinner parody | “For lunch and supper...” | CANDIDATE |
+| S015 | 01:03.09 | 01:06.80 | 3.71 | INSERT | Milk-glass toast, growing mess on counter | “Life’s much sweeter...” | CANDIDATE |
 | V005B | 01:06.80 | 01:13.03 | 6.23 | VIDEO | Faster reprise: syrup/jam rejected again, more over-the-top | Verse 2 reprise | PLANNED |
 | S016 | 01:13.03 | 01:17.46 | 4.43 | STILL | Cowboy mixes with commercial smile; singer fans herself with recipe card | “Call me crazy...” reprise | PLANNED |
 | S017 | 01:17.46 | 01:20.57 | 3.11 | INSERT | Bowl, whisk, batter texture, steam, flour dust | Build toward bridge | PLANNED |
