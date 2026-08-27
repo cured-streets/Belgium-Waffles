@@ -53,7 +53,7 @@ This is not a frame-locked edit. It is a production map for deciding which image
 | V009 | 01:53.77 | 01:58.90 | 5.13 | VIDEO | Cowboy places blank retro product box on counter | Outro setup + “waffles, biscuits or pie” | PLANNED |
 | G001 | 01:58.90 | 02:03.43 | 4.53 | GRAPHIC | Track clean product label onto box: BABY'S BRAND WAFFLE BATTER | “Give me baby batter till the day I die” | PLANNED |
 | V010 | 02:03.43 | 02:06.50 | 3.07 | VIDEO | Cowboy gives camera final thumbs-up; singer beams beside waffle stack | Final hold begins | PLANNED |
-| S024 | 02:06.50 | 02:12.37 | 5.87 | STILL / GRAPHIC | Final product beauty hold or freeze frame with retro end-card styling | Instrumental tail / end | PLANNED |
+| S024 | 02:06.50 | 02:12.37 | 5.87 | STILL / GRAPHIC | Final product beauty hold or freeze frame with retro end-card styling | Instrumental tail / end | CANDIDATE |
 
 ## Recurring Irish Setter Beats
 

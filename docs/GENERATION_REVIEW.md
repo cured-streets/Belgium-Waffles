@@ -585,8 +585,32 @@ What works:
 
 ---
 
+## Batch 007 — Outro / End-Card
+
+### S024_final-product-beauty-hold_v001.png
+
+Path: `generations/stills/candidates/S024_final-product-beauty-hold_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Dramatic 1970s spotlight end-card; waffle stack centered with steam.
+- Blank retro box ready for the G001 label track-in.
+- Warm retro curtain frame; strong final hold / freeze frame.
+
+Issues / notes:
+
+- Box face is blank (intended). Add "BABY'S BRAND WAFFLE BATTER" label in post.
+
+---
+
+## Storyboard Status
+
+S001–S024 all generated and CANDIDATE. Still-storyboard phase is **complete**.
+
 ## Next Steps
 
-- Generate **S024** (product-box hero / intro-style tag) and the **outro** coverage.
-- Generate the **V001–V010** image-to-video clips from the approved stills.
-- Build the **product-box label graphic** and **overlays** (steam, flour, grain, light leaks) in post.
+- Generate the **V001–V010** image-to-video clips from the approved stills (highest priority: V002, V003, V004, V005, V006, V008, V009, V010).
+- Build the **G001 product label** ("BABY'S BRAND WAFFLE BATTER") and track it onto the S024 box.
+- Assemble the video and add **overlays** (steam, flour, grain, light leaks) in post.

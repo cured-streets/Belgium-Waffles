@@ -46,8 +46,9 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | S019 | `generations/stills/candidates/S019_hands-reach-bowl_v001.png` | Story still candidate | Pre-bridge 01:23.50–01:26.57 | CANDIDATE | Arena.ai image generation | Original generated candidate | Two adult hands reaching toward bowl and whisk |
 | S020 | `generations/stills/candidates/S020_slow-whisk-close_v001.png` | Story still candidate | Bridge 01:26.57–01:28.23 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Slow whisk turning thick batter |
 | S021 | `generations/stills/candidates/S021_thick-batter-texture_v001.png` | Story still candidate | Bridge 01:28.23–01:32.97 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Macro thick batter ribbon texture |
-| S022 | `generations/stills/candidates/S022_singer-picks-up-bowl_v001.png` | Story still candidate | Final chorus 01:35.44–01:39.58 | CANDIDATE | Arena.ai image generation | Original generated candidate | Singer lifts bowl, whisk raised, batter drip; small pseudo-text sign top-left to cover |
-| S023 | `generations/stills/candidates/S023_waffle-stack-grab_v001.png` | Story still candidate | Final chorus 01:39.58–01:43.29 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Two adult hands grab waffle stack from both sides |
+| S022 | `generations/stills/candidates/S022_singer-picks-up-bowl_v001.png` | Story still candidate | Final chorus pickup 01:39.53–01:41.37 | CANDIDATE | Arena.ai image generation | Original generated candidate | Singer lifts bowl, whisk raised, batter drip; small pseudo-text sign top-left to cover |
+| S023 | `generations/stills/candidates/S023_waffle-stack-grab_v001.png` | Story still candidate | Final chorus 01:50.50–01:53.77 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Two adult hands grab waffle stack from both sides |
+| S024 | `generations/stills/candidates/S024_final-product-beauty-hold_v001.png` | Story still / graphic candidate | Outro end-card 02:06.50–02:12.37 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Spotlit waffle stack + blank retro box; label tracked in post |
 
 ## Uploaded Raw Filename Mapping
 
