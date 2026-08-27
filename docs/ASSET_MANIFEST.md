@@ -25,6 +25,9 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | T002 | `generations/stills/candidates/T002_syrup-and-jam-pushed-aside_v001.png` | Story still candidate | Verse 2 / syrup-jam rejection | CANDIDATE | Arena.ai image generation | Original generated candidate | Hand pushes syrup and jam aside; syrup label has readable pseudo-text to cover/blur in post |
 | T003 | `generations/stills/candidates/T003_waffle-stack-focus_v001.png` | Story still candidate | Chorus / "pour it on my plate" | CANDIDATE | Arena.ai image generation | Original generated candidate | Waffle stack with syrup pour, butter, steam; clean food-commercial insert |
 | T004 | `generations/stills/candidates/T004_table-for-two-waffles-only_v001.png` | Story still candidate | Outro / "biscuits or pie" | CANDIDATE | Arena.ai image generation | Original generated candidate | Table for two with waffles, biscuits, and pie only; syrup/jam removed |
+| DOG001 | `generations/stills/candidates/DOG001_irish-setter-reference_v001.png` | Recurring character / prop reference | Irish Setter | CANDIDATE | Arena.ai image generation | Original generated candidate | Setter sitting beside stove; lock candidate for dog appearance |
+| DOG002 | `generations/stills/candidates/DOG002_setter-underfoot-mixing_v001.png` | Story still candidate | Verse 1 / mixing gag | CANDIDATE | Arena.ai image generation | Original generated candidate | Setter underfoot while cowboy mixes batter; cover/blur small pseudo-text |
+| DOG003 | `generations/stills/candidates/DOG003_setter-beside-table_v001.png` | Story still candidate | Outro / product hold | CANDIDATE | Arena.ai image generation | Original generated candidate | Setter beside table-for-two looking up at waffle stack |
 
 ## Uploaded Raw Filename Mapping
 

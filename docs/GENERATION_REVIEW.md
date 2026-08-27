@@ -265,6 +265,50 @@ What works:
 
 ---
 
+### DOG001_irish-setter-reference_v001.png
+
+Path: `generations/stills/candidates/DOG001_irish-setter-reference_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Reads clearly as an adult Irish Setter with glossy red-gold coat and long ears.
+- Warm, wholesome farmhouse-commercial presence.
+- Clearly adult dog, not a puppy/cartoon mascot.
+- No readable text, no people.
+
+### DOG002_setter-underfoot-mixing_v001.png
+
+Path: `generations/stills/candidates/DOG002_setter-underfoot-mixing_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Sells the underfoot gag while the cowboy mixes batter.
+- Dog stays physically plausible and never steals the lyric focus.
+- Same cowboy, kitchen, bowl, whisk, and Setter appearance as existing references.
+
+Issues / notes:
+
+- Small pseudo-text on the syrup bottle and waffle iron. Cover/blur in post or regenerate blank props.
+
+### DOG003_setter-beside-table_v001.png
+
+Path: `generations/stills/candidates/DOG003_setter-beside-table_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Strong outro/product-hold punchline.
+- Dog sits faithfully beside the table-for-two, looking up at the waffle stack.
+- Continues the "table for two, good stuff left" motif.
+- No faces, no readable-text issue other than tiny pseudo-speckles on the syrup/jam labels.
+
+---
+
 ## Next Steps
 
 - Commit a decision on which characters/location are **APPROVED** so shots stay consistent.

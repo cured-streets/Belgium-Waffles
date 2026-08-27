@@ -55,6 +55,18 @@ This is not a frame-locked edit. It is a production map for deciding which image
 | V010 | 02:03.43 | 02:06.50 | 3.07 | VIDEO | Cowboy gives camera final thumbs-up; singer beams beside waffle stack | Final hold begins | PLANNED |
 | S024 | 02:06.50 | 02:12.37 | 5.87 | STILL / GRAPHIC | Final product beauty hold or freeze frame with retro end-card styling | Instrumental tail / end | PLANNED |
 
+## Recurring Irish Setter Beats
+
+The Setter appears as a recurring third character/prop for physical comedy. Keep the same glossy red-gold coat, long ears, adult build, and farmhouse energy across all uses.
+
+| ID | In | Out | Dur. | Type | Visual | Lyric / Cue | Status |
+|---|---:|---:|---:|---|---|---|---|
+| DOG001 | 00:03.00 | 00:06.10 | 3.10 | STILL | Setter sits attentively beside the stove in warm steam | Intro instrumental | CANDIDATE |
+| DOG002 | 00:15.00 | 00:19.54 | 4.54 | STILL | Setter gets underfoot while cowboy mixes batter | “special recipe...” / bowl reveal | CANDIDATE |
+| DOG003 | 01:58.90 | 02:06.50 | 7.60 | STILL | Setter sits beside the table-for-two, looking up hopefully at the waffle stack | “biscuits or pie” / final hold | CANDIDATE |
+
+Uses may be intercut with S003–S012; the dog should support the gag, not dominate the lyric focus.
+
 ## Highest-Priority Generation Targets
 
 If production time/tool credits are limited, generate these first:
