@@ -652,9 +652,76 @@ Recurring visual punchline for the product name. Pan/cut to BAS001 on each "Baby
 
 ---
 
+## Batch 009 — Baby Shower Cold Open
+
+### SH001_baby-shower-wide_v001.png
+
+Path: `generations/stills/candidates/SH001_baby-shower-wide_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Pregnant Singer centered among four girlfriends; warm 1970s living room.
+- Balloons, bunting, cream cake, tea — wholesome shower energy, no text.
+- Long-held warm smile reads perfectly as the "telling the story" setup.
+
+### SH002_shower-story-closeup_v001.png
+
+Path: `generations/stills/candidates/SH002_shower-story-closeup_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Pregnant Singer close-up with cake on a plate, hand on belly, mid-story expression.
+- Funny-but-warm; a great match-to-camera for the "watch me tell this" beat.
+- Continuity with singer reference holds.
+
+### SH003_girlfriends-laughing_v001.png
+
+Path: `generations/stills/candidates/SH003_girlfriends-laughing_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Four girlfriends laughing with hands up; waffle stack being passed in.
+- Ties the shower directly to the breakfast motif.
+- Reads as affectionate, not mocking.
+
+### SH004_wink-into-dream_v001.png
+
+Path: `generations/stills/candidates/SH004_wink-into-dream_v001.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- Warm seated laugh in the shower room; dissolves nicely into the golden dream.
+- No text, no logos.
+
+Issues / notes:
+
+- Result reads as a warm laugh rather than a hard wink; still usable for the transition. If we want a true wink, regenerate.
+
+### DOG004_setter-nuzzles-bassinette_v001.png
+
+Path: `generations/stills/candidates/DOG004_setter-nuzzles-bassinette_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Adult Irish Setter (per the adult-dog lock) laid beside the wicker bassinette with a soulful upward gaze.
+- Warm, wholesome "puppies love babies" beat with no faces, no text, no childlike cartoon coding.
+- Completes the shower → baby batter → bassinette → Setter triptych and keeps the innuendo sweet.
+
+---
+
 ## Storyboard Status
 
-S001–S024 all generated and CANDIDATE. Still-storyboard phase is **complete** (S024 v002 with bassinette preferred).
+S001–S024 + SH001–SH004 + BAS001 + DOG001–DOG004 all generated and CANDIDATE. Cold-open framing plus the baby/batter/dog warmth beat are in place.
 
 ## Next Steps
 

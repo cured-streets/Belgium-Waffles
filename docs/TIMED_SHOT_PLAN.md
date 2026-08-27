@@ -13,6 +13,21 @@ This is not a frame-locked edit. It is a production map for deciding which image
 - **INSERT**: prop/food/detail shot, still or short clip
 - **GRAPHIC**: manually created title/product/label graphic
 
+## Baby Shower Cold Open (Framing Device)
+
+The video opens at a 1970s baby shower where the visibly pregnant Singer tells her girlfriends the waffle story. This is the framing device for the entire song: the kitchen "waffle" performance is the memory/fantasy she's telling. The cold-open plays over the intro instrumental and dissolves into the kitchen dream at V001 ("Well I wake up…").
+
+Keep the on-screen content wholesome (party, cakes, laughs) with the innuendo carried by the lyrics.
+
+| ID | In | Out | Dur. | Type | Visual | Lyric / Cue | Status |
+|---|---:|---:|---:|---|---|---|---|
+| SH001 | 00:00.00 | 00:05.00 | 5.00 | STILL | Pregnant Singer centered among girlfriends; balloons, bunting, cake | Intro instrumental | CANDIDATE |
+| SH002 | 00:05.00 | 00:08.00 | 3.00 | STILL | Pregnant Singer close-up, hand on belly, holding cake, telling the story | Intro instrumental | CANDIDATE |
+| SH003 | 00:08.00 | 00:10.00 | 2.00 | STILL | Girlfriends laugh; waffle stack passed in | Intro instrumental | CANDIDATE |
+| SH004 | 00:10.00 | 00:12.00 | 2.00 | STILL | Singer laughs/winks into camera; room dissolves to golden dream | Transition to kitchen | CANDIDATE |
+
+After SH004, dissolve into the existing intro (S001/S002 optional, then V001 wake-up). The shower is the frame; the kitchen is the tale.
+
 ## Full Timed Plan
 
 | ID | In | Out | Dur. | Type | Visual | Lyric / Cue | Status |
@@ -64,6 +79,7 @@ The Setter appears as a recurring third character/prop for physical comedy. Keep
 | DOG001 | 00:03.00 | 00:06.10 | 3.10 | STILL | Setter sits attentively beside the stove in warm steam | Intro instrumental | CANDIDATE |
 | DOG002 | 00:15.00 | 00:19.54 | 4.54 | STILL | Setter gets underfoot while cowboy mixes batter | “special recipe...” / bowl reveal | CANDIDATE |
 | DOG003 | 01:58.90 | 02:06.50 | 7.60 | STILL | Setter sits beside the table-for-two, looking up hopefully at the waffle stack | “biscuits or pie” / final hold | CANDIDATE |
+| DOG004 | 01:58.90 | 02:12.37 | 13.47 | STILL | Adult Setter gazes soulfully at the bassinette | “puppies love babies” warmth / outro | CANDIDATE |
 
 Uses may be intercut with S003–S012; the dog should support the gag, not dominate the lyric focus.
 

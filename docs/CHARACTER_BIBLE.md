@@ -63,6 +63,7 @@ A handsome adult Irish Setter with a glossy red-gold coat and long silky ears. H
 
 - Adult dog energy only; never childlike, puppy-like, or cartoon mascot.
 - Uses him for physical comedy: underfoot during mixing, hopeful at the table, curious about syrup/jam that gets rejected.
+- "Puppies love babies" beat: the adult Setter also has a soft, soulful presence beside the bassinette — tenderness, not puppy behavior.
 - Same dog appearance, coloring, and size across every shot.
 - Never steals the lyric-focus for more than a cut; he supports the food-commercial gags.
 
@@ -71,5 +72,6 @@ A handsome adult Irish Setter with a glossy red-gold coat and long silky ears. H
 - [x] Sitting beside the stove / kitchen (reference)
 - [x] Underfoot during mixing (reference)
 - [x] Beside the table-for-two (reference)
+- [x] Beside the bassinette (reference)
 - [ ] Front portrait (if needed for close-up)
 - [ ] Profile (if needed for side gag)

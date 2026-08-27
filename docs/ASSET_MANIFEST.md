@@ -50,6 +50,11 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | S023 | `generations/stills/candidates/S023_waffle-stack-grab_v001.png` | Story still candidate | Final chorus 01:50.50–01:53.77 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Two adult hands grab waffle stack from both sides |
 | S024 | `generations/stills/candidates/S024_final-product-beauty-hold_v002.png` | Story still / graphic candidate | Outro end-card 02:06.50–02:12.37 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Spotlit waffle stack + blank retro box + bassinette at frame-left; label tracked in post |
 | BAS001 | `generations/stills/candidates/BAS001_bassinette-beside-table_v001.png` | Recurring insert | "Baby Batter" hits | CANDIDATE | Arena.ai image generation | Original generated candidate | Wicker bassinette beside table; visual punchline for "Baby Batter" |
+| SH001 | `generations/stills/candidates/SH001_baby-shower-wide_v001.png` | Cold-open wide | Intro 00:00.00–00:05.00 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Pregnant singer center among girlfriends, balloons/bunting/cake |
+| SH002 | `generations/stills/candidates/SH002_shower-story-closeup_v001.png` | Cold-open close-up | Intro 00:05.00–00:08.00 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Pregnant singer hand-on-belly with cake, telling the story |
+| SH003 | `generations/stills/candidates/SH003_girlfriends-laughing_v001.png` | Cold-open reaction | Intro 00:08.00–00:10.00 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Girlfriends laughing, waffle stack passed in |
+| SH004 | `generations/stills/candidates/SH004_wink-into-dream_v001.png` | Cold-open transition | Intro 00:10.00–00:12.00 | CANDIDATE | Arena.ai image generation | Original generated candidate | Warm laugh/dissolve into the kitchen dream |
+| DOG004 | `generations/stills/candidates/DOG004_setter-nuzzles-bassinette_v001.png` | Recurring character insert | Bassinette beat / outro | CANDIDATE | Arena.ai image generation | Original generated candidate | Adult Setter soulfully beside the bassinette |
 
 ## Uploaded Raw Filename Mapping
 
