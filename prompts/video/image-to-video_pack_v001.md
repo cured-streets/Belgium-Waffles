@@ -1,23 +1,36 @@
 # Image-to-Video Prompt Pack — Belgium Waffles & Baby Batter
 
-Vendor-agnostic. Paste your reference image + prompt into your video generator (Kling, Runway, Veo, Pika, Hailuo, etc.).
+**Vendor:** Seedance (image-to-video), matching the "Take the Streets Back" workflow.
+**Method:** feed the listed reference still, paste the prompt + negative, run 3 variants, pick the strongest, then cut into the edit.
+
+## Seedance settings (use for every clip)
+
+- Duration: listed per clip (4–8s each; keep clips short)
+- FPS: 16
+- Aspect Ratio: 16:9
+- Guidance / CFG: 6.5–8.0
+- Steps: 30–40
+- Image-reference weight: 0.6–0.8
+- Motion strength: 0.18–0.30
+- Variants: 3
 
 ## Global style block (append to every prompt)
 
-> 1970s adult country-variety-show breakfast-commercial parody, warm Kodachrome film grain, soft-focus golden farmhouse light, wholesome on-screen tone, practical food-commercial energy, no readable text, no logos, no watermark, no childlike/cartoon rendering, no celebrity likeness, no explicit imagery, adult cast only, 16:9.
+> 1970s adult country-variety-show breakfast-commercial parody, warm Kodachrome film grain, soft-focus golden farmhouse light, wholesome on-screen tone, practical food-commercial energy, no readable text, no logos, no watermark, no childlike/cartoon rendering, no celebrity likeness, no explicit imagery, adult cast only, 16:9, photorealistic, cinematic film stock look, tactile surface detail, natural facial detail, natural hands, stable subject, 24fps feel.
 
 ## Global negative prompt (use if the tool supports it)
 
-> readable text, misspelled labels, logos, watermark, title cards, childlike/cartoon style, degraded quality, warped faces, extra limbs, extra fingers, morphing, flicker, changing wardrobe, ceiling lights, explicit imagery, modern LED glow, green screen seams, celebrity likeness.
+> readable text, misspelled labels, logos, watermark, title cards, childlike/cartoon style, anime, painterly, degraded quality, warped faces, extra limbs, extra fingers, morphing, flicker, changing wardrobe, ceiling lights, explicit imagery, modern LED glow, green screen seams, celebrity likeness, obvious CGI artifacts, warped geometry, glitchy motion, oversaturated modern commercial lighting.
 
 ## Global notes
 
 - **Aspect ratio:** 16:9 (1920×1080 or higher).
-- **Frame rate:** 24 fps (or as close as the tool allows).
-- **Reference strengths:** use the listed still as the first frame / image prompt; keep likeness and room continuity similar.
+- **Frame rate:** request 16 fps (Seedance setting); the edit runs at 24 fps but Seedance outputs are fine to conform.
+- **Reference strengths:** use the listed still as the image-reference / first frame; keep likeness and room continuity similar.
 - **Do not generate on-screen text.** The product label ("BABY'S BRAND WAFFLE BATTER") is added in post.
+- **One primary action per clip.** Avoid complex hand choreography; keep motion physically plausible and subtle for food inserts.
 - **Motion should be subtle** for food inserts, larger only for the finale. The song is a parody, not an action scene.
-- If the tool needs a length, request the listed clip duration.
+- Run **3 variants** per clip and keep only the strongest; cut around any unstable frames in the edit.
 
 ---
 
