@@ -476,8 +476,85 @@ Issues / notes:
 
 ---
 
+## Batch 005 — Reprise / Bridge Build
+
+### S016_singer-fans-recipe-card_v001.png
+
+Path: `generations/stills/candidates/S016_singer-fans-recipe-card_v001.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- Strong reprise energy; singer fans herself with a recipe card and gives a cool look.
+- Wardrobe, hair, and kitchen continuity hold.
+
+Issues / notes:
+
+- Recipe card has pseudo-writing. Replace with a blank card or blur in post; the gag should read as a fan, not a readable menu.
+
+### S017_bowl-whisk-batter-close_v001.png
+
+Path: `generations/stills/candidates/S017_bowl-whisk-batter-close_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Beautiful bowl/whisk/batter close with steam and flour dust.
+- Great transition from reprise into the romantic build.
+
+### S018_romantic-mood-shift_v001.png
+
+Path: `generations/stills/candidates/S018_romantic-mood-shift_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Perfect dusk mood shift for the pre-bridge.
+- Same kitchen, now candles and soft glow. Strong continuity reset.
+
+### S019_hands-reach-bowl_v001.png
+
+Path: `generations/stills/candidates/S019_hands-reach-bowl_v001.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- Two adult hands reaching toward the bowl and whisk.
+- Soft romantic focus; reads as the couple preparing to stir together.
+- No faces, no text.
+
+### S020_slow-whisk-close_v001.png
+
+Path: `generations/stills/candidates/S020_slow-whisk-close_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Gorgeous slow-whisk ribbon texture.
+- Excellent candidate for the V006 slow-whisk image-to-video.
+- No text, no people.
+
+### S021_thick-batter-texture_v001.png
+
+Path: `generations/stills/candidates/S021_thick-batter-texture_v001.png`
+
+Status: **CANDIDATE / STRONG**
+
+What works:
+
+- Macro batter texture with whisk ribbons; reads thick and appetizing.
+- Great slow-motion insert for "stir it up thick."
+- No text, no people.
+
+---
+
 ## Next Steps
 
-- Generate **S016–S021** (reprise mix, recipe-card fan, pre-bridge hands, slow whisk, thick batter) for the bridge build.
+- Generate **S022–S023** (pickup bowl spin / waffle stack) and the final chorus build.
 - Generate the **V001–V010** image-to-video clips from the approved stills.
 - Build the **product-box label graphic** and **overlays** (steam, flour, grain, light leaks) in post.

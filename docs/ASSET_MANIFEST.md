@@ -40,6 +40,12 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | S013 | `generations/stills/candidates/S013_midday-waffle-lunch_v001.png` | Story still candidate | Chorus 2 00:56.42–01:00.36 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Midday waffle lunch tableau for two |
 | S014 | `generations/stills/candidates/S014_candlelit-waffle-supper_v001.png` | Story still candidate | Chorus 2 01:00.36–01:03.09 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Candlelit waffle supper tableau |
 | S015 | `generations/stills/candidates/S015_milk-glass-toast_v001.png` | Story still candidate | Chorus 2 01:03.09–01:06.80 | CANDIDATE | Arena.ai image generation | Original generated candidate | Two hands clinking milk glasses |
+| S016 | `generations/stills/candidates/S016_singer-fans-recipe-card_v001.png` | Story still candidate | Verse 2 reprise 01:13.03–01:17.46 | CANDIDATE | Arena.ai image generation | Original generated candidate | Singer fans herself with recipe card; card has pseudo-writing to replace/blur in post |
+| S017 | `generations/stills/candidates/S017_bowl-whisk-batter-close_v001.png` | Story still candidate | Verse 2 reprise 01:17.46–01:20.57 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Bowl, whisk, thick batter, steam, flour |
+| S018 | `generations/stills/candidates/S018_romantic-mood-shift_v001.png` | Story still candidate | Pre-bridge 01:20.57–01:23.50 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Romantic dusk mood shift, candles, soft focus |
+| S019 | `generations/stills/candidates/S019_hands-reach-bowl_v001.png` | Story still candidate | Pre-bridge 01:23.50–01:26.57 | CANDIDATE | Arena.ai image generation | Original generated candidate | Two adult hands reaching toward bowl and whisk |
+| S020 | `generations/stills/candidates/S020_slow-whisk-close_v001.png` | Story still candidate | Bridge 01:26.57–01:28.23 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Slow whisk turning thick batter |
+| S021 | `generations/stills/candidates/S021_thick-batter-texture_v001.png` | Story still candidate | Bridge 01:28.23–01:32.97 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Macro thick batter ribbon texture |
 
 ## Uploaded Raw Filename Mapping
 

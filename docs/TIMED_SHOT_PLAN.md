@@ -39,12 +39,12 @@ This is not a frame-locked edit. It is a production map for deciding which image
 | S014 | 01:00.36 | 01:03.09 | 2.73 | STILL | Supper tableau: candlelit waffle dinner parody | “For lunch and supper...” | CANDIDATE |
 | S015 | 01:03.09 | 01:06.80 | 3.71 | INSERT | Milk-glass toast, growing mess on counter | “Life’s much sweeter...” | CANDIDATE |
 | V005B | 01:06.80 | 01:13.03 | 6.23 | VIDEO | Faster reprise: syrup/jam rejected again, more over-the-top | Verse 2 reprise | PLANNED |
-| S016 | 01:13.03 | 01:17.46 | 4.43 | STILL | Cowboy mixes with commercial smile; singer fans herself with recipe card | “Call me crazy...” reprise | PLANNED |
-| S017 | 01:17.46 | 01:20.57 | 3.11 | INSERT | Bowl, whisk, batter texture, steam, flour dust | Build toward bridge | PLANNED |
-| S018 | 01:20.57 | 01:23.50 | 2.93 | STILL | Kitchen lights soften; romantic soft-focus shift | Instrumental pre-bridge | PLANNED |
-| S019 | 01:23.50 | 01:26.57 | 3.07 | INSERT | Close-up: hands reach toward whisk and bowl | Instrumental pre-bridge | PLANNED |
-| S020 | 01:26.57 | 01:28.23 | 1.66 | INSERT | Slow whisk close-up | “Mix it up slow” | PLANNED |
-| S021 | 01:28.23 | 01:32.97 | 4.74 | INSERT | Batter stirred thick, exaggerated food-commercial texture | “Stir it up thick... whip it up quick” | PLANNED |
+| S016 | 01:13.03 | 01:17.46 | 4.43 | STILL | Cowboy mixes with commercial smile; singer fans herself with recipe card | “Call me crazy...” reprise | CANDIDATE |
+| S017 | 01:17.46 | 01:20.57 | 3.11 | INSERT | Bowl, whisk, batter texture, steam, flour dust | Build toward bridge | CANDIDATE |
+| S018 | 01:20.57 | 01:23.50 | 2.93 | STILL | Kitchen lights soften; romantic soft-focus shift | Instrumental pre-bridge | CANDIDATE |
+| S019 | 01:23.50 | 01:26.57 | 3.07 | INSERT | Close-up: hands reach toward whisk and bowl | Instrumental pre-bridge | CANDIDATE |
+| S020 | 01:26.57 | 01:28.23 | 1.66 | INSERT | Slow whisk close-up | “Mix it up slow” | CANDIDATE |
+| S021 | 01:28.23 | 01:32.97 | 4.74 | INSERT | Batter stirred thick, exaggerated food-commercial texture | “Stir it up thick... whip it up quick” | CANDIDATE |
 | V006 | 01:32.97 | 01:39.53 | 6.56 | VIDEO | Couple stirs batter together in soft-focus lens flare | “Every day’s a feast...” | PLANNED |
 | S022 | 01:39.53 | 01:41.37 | 1.84 | INSERT | Fast pickup shot: bowl spin / whisk lift | “Baby batter for breakfast” pickup | PLANNED |
 | V008 | 01:41.37 | 01:47.04 | 5.67 | VIDEO | Flour-cloud dance finale begins around kitchen island | Final chorus | PLANNED |
