@@ -605,9 +605,56 @@ Issues / notes:
 
 ---
 
+## Batch 008 — Baby Batter Recurring Punchline
+
+### BAS001_bassinette-beside-table_v001.png
+
+Path: `generations/stills/candidates/BAS001_bassinette-beside-table_v001.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- Woven wicker bassinette with cream linens and red gingham sits beside the prep table.
+- Matches the kitchen lock (wide + reverse), no pseudo-text, no people.
+- Great pan/reveal target for every "Baby Batter" hit.
+
+Issues / notes:
+
+- Reads slightly subtle in the wide; shot may need a slight push-in/pan in post to land the gag.
+
+### S024_final-product-beauty-hold_v002.png
+
+Path: `generations/stills/candidates/S024_final-product-beauty-hold_v002.png`
+
+Status: **CANDIDATE**
+
+What works:
+
+- End-card now includes the bassinette at frame-left under the curtain; waffle stack + blank box still read clean.
+- Keeps the final "Baby Batter" hit connected to the gag.
+- Box face remains blank for G001 label track-in.
+
+Issues / notes:
+
+- If the frame-left bassinette feels too dark on some monitors, a slight lift in post will fix it. v001 remains as the no-bassinette fallback.
+
+---
+
+## Bassinette Placement
+
+Recurring visual punchline for the product name. Pan/cut to BAS001 on each "Baby Batter" lyric hit:
+
+1. **V003** — 00:19.54 "Baby batter… pour it on my plate"
+2. **V003B** — 00:52.80 "Baby batter… pour it on my plate"
+3. **S022** — 01:39.53 "Baby batter for breakfast" pickup
+4. **G001 / S024** — 01:58.90–02:12.37 "Give me baby batter till the day I die"
+
+---
+
 ## Storyboard Status
 
-S001–S024 all generated and CANDIDATE. Still-storyboard phase is **complete**.
+S001–S024 all generated and CANDIDATE. Still-storyboard phase is **complete** (S024 v002 with bassinette preferred).
 
 ## Next Steps
 

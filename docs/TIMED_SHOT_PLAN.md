@@ -67,6 +67,19 @@ The Setter appears as a recurring third character/prop for physical comedy. Keep
 
 Uses may be intercut with S003–S012; the dog should support the gag, not dominate the lyric focus.
 
+## Recurring Baby Batter Punchline
+
+A woven wicker bassinette beside the prep table is the literal "Baby Batter" visual gag. Pan/cut to BAS001 on each "Baby Batter" lyric hit; keep the SAME bassinette (wicker + cream linens + red gingham) to preserve continuity.
+
+| ID | In | Out | Dur. | Type | Visual | Lyric / Cue | Status |
+|---|---:|---:|---:|---|---|---|---|
+| BAS001 | 00:19.54 | 00:23.13 | 3.59 | STILL | Bassinette beside prep table, gentle pan | “Baby batter... pour it on my plate” | CANDIDATE |
+| BAS001 | 00:52.80 | 00:56.42 | 3.62 | STILL | Bassinette beside prep table, gentle pan | “Baby batter... pour it on my plate” (reprise) | CANDIDATE |
+| BAS001 | 01:39.53 | 01:41.37 | 1.84 | STILL | Bassinette beside prep table, quick hit | “Baby batter for breakfast” pickup | CANDIDATE |
+| BAS001 | 01:58.90 | 02:12.37 | 13.47 | STILL | Bassinette in end-card frame-left | “Give me baby batter till the day I die” | CANDIDATE |
+
+Use S024 v002 for the final bassinette-inclusive end-card. The gag should be deadpan and brief — a slice of the same bassinette, never over-explained.
+
 ## Highest-Priority Generation Targets
 
 If production time/tool credits are limited, generate these first:

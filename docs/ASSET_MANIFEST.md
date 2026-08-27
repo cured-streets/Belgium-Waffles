@@ -48,7 +48,8 @@ Approval states: PLANNED, PROMPT READY, GENERATING, CANDIDATE, REVISION NEEDED, 
 | S021 | `generations/stills/candidates/S021_thick-batter-texture_v001.png` | Story still candidate | Bridge 01:28.23–01:32.97 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Macro thick batter ribbon texture |
 | S022 | `generations/stills/candidates/S022_singer-picks-up-bowl_v001.png` | Story still candidate | Final chorus pickup 01:39.53–01:41.37 | CANDIDATE | Arena.ai image generation | Original generated candidate | Singer lifts bowl, whisk raised, batter drip; small pseudo-text sign top-left to cover |
 | S023 | `generations/stills/candidates/S023_waffle-stack-grab_v001.png` | Story still candidate | Final chorus 01:50.50–01:53.77 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Two adult hands grab waffle stack from both sides |
-| S024 | `generations/stills/candidates/S024_final-product-beauty-hold_v001.png` | Story still / graphic candidate | Outro end-card 02:06.50–02:12.37 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Spotlit waffle stack + blank retro box; label tracked in post |
+| S024 | `generations/stills/candidates/S024_final-product-beauty-hold_v002.png` | Story still / graphic candidate | Outro end-card 02:06.50–02:12.37 | CANDIDATE / STRONG | Arena.ai image generation | Original generated candidate | Spotlit waffle stack + blank retro box + bassinette at frame-left; label tracked in post |
+| BAS001 | `generations/stills/candidates/BAS001_bassinette-beside-table_v001.png` | Recurring insert | "Baby Batter" hits | CANDIDATE | Arena.ai image generation | Original generated candidate | Wicker bassinette beside table; visual punchline for "Baby Batter" |
 
 ## Uploaded Raw Filename Mapping
 
