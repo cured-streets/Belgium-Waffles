@@ -45,13 +45,11 @@ This is not a frame-locked edit. It is a production map for deciding which image
 | S019 | 01:23.50 | 01:26.57 | 3.07 | INSERT | Close-up: hands reach toward whisk and bowl | Instrumental pre-bridge | CANDIDATE |
 | S020 | 01:26.57 | 01:28.23 | 1.66 | INSERT | Slow whisk close-up | “Mix it up slow” | CANDIDATE |
 | S021 | 01:28.23 | 01:32.97 | 4.74 | INSERT | Batter stirred thick, exaggerated food-commercial texture | “Stir it up thick... whip it up quick” | CANDIDATE |
-| S022 | 01:35.44 | 01:39.58 | 4.14 | STILL | Singer picks up bowl, whisk raised, triumphant smile | Reprise pickup | CANDIDATE |
-| S023 | 01:39.58 | 01:43.29 | 3.71 | INSERT | Hands grab waffle stack from both sides | Final chorus food beat | CANDIDATE |
 | V006 | 01:32.97 | 01:39.53 | 6.56 | VIDEO | Couple stirs batter together in soft-focus lens flare | “Every day’s a feast...” | PLANNED |
-| S022 | 01:39.53 | 01:41.37 | 1.84 | INSERT | Fast pickup shot: bowl spin / whisk lift | “Baby batter for breakfast” pickup | PLANNED |
+| S022 | 01:39.53 | 01:41.37 | 1.84 | INSERT | Fast pickup shot: singer lifts bowl and whisk in triumph | “Baby batter for breakfast” pickup | CANDIDATE |
 | V008 | 01:41.37 | 01:47.04 | 5.67 | VIDEO | Flour-cloud dance finale begins around kitchen island | Final chorus | PLANNED |
 | V007 | 01:47.04 | 01:50.50 | 3.46 | VIDEO | Waffle flip through air, caught on plate | Final chorus | PLANNED |
-| S023 | 01:50.50 | 01:53.77 | 3.27 | INSERT | Rapid waffle stack / butter / steam / smiling reactions | End of final chorus | PLANNED |
+| S023 | 01:50.50 | 01:53.77 | 3.27 | INSERT | Rapid waffle stack / butter / steam / hands grab from both sides | End of final chorus | CANDIDATE |
 | V009 | 01:53.77 | 01:58.90 | 5.13 | VIDEO | Cowboy places blank retro product box on counter | Outro setup + “waffles, biscuits or pie” | PLANNED |
 | G001 | 01:58.90 | 02:03.43 | 4.53 | GRAPHIC | Track clean product label onto box: BABY'S BRAND WAFFLE BATTER | “Give me baby batter till the day I die” | PLANNED |
 | V010 | 02:03.43 | 02:06.50 | 3.07 | VIDEO | Cowboy gives camera final thumbs-up; singer beams beside waffle stack | Final hold begins | PLANNED |
